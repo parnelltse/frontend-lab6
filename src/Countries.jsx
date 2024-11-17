@@ -1,5 +1,5 @@
 import React from "react";
-import Country from "./country";
+import Country from "./Country";
 const Countries = ({ countries }) => {
     return (
         <div style={{ display: "flex", flexWrap: "wrap", gap: "16px" }}>

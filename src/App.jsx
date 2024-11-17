@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Countries from "./countries";
+import Countries from "./Countries";
 import "./App.css";
 
 const App = () => {
